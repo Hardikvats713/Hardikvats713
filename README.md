@@ -1,121 +1,18 @@
+# 💫 About Me:
+I’m a cybersecurity-focused developer with a strong interest in building practical, real-world AI systems. My work sits at the intersection of security, intelligence, and automation — where I explore how systems can detect, analyze, and respond to complex human and digital behavior.<br><br>I’ve worked on projects like an AI-based face detection system trained on controlled datasets for secure access environments, and Voxen AI — a behavioral digital clone concept designed to simulate human interaction and decision-making. My focus is not just on building models, but on making them usable, reliable, and aligned with real-world constraints.<br><br>Technically, I’m comfortable working across AI/ML fundamentals, backend logic, and system design, with a growing interest in areas like log analytics, steganography, and intelligent authentication systems.<br><br>I’m currently looking to collaborate on research-driven and impactful projects in AI, cybersecurity, and intelligent systems — especially those that push beyond conventional implementations.
 
-# Hardik's Cybersecurity Toolkit
 
-_A comprehensive collection of cybersecurity tools, scripts, templates, and documentation for professionals and learners._
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hardik-vats) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vatsh354@gmail.com) 
 
----
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hardik-vats)
-
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Hardikvats713&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Hardikvats713&theme=slateorange&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hardikvats713&theme=slateorange&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Hardikvats713&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## About
-
-Welcome to my cybersecurity toolkit repository!  
-This repository contains a curated set of tools, scripts, templates, and guides for penetration testing, incident response, vulnerability management, and more.  
-Whether you’re a cybersecurity professional or an enthusiastic learner, you’ll find valuable resources to enhance your security projects.
-
----
-
-## Features
-
-- Penetration testing scripts and automation
-- Incident response playbooks and documentation
-- Vulnerability management templates and checklists
-- Sample security reports
-- Security best practices and guides
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Bash/Shell environment
-- Common security tools (e.g., nmap, Wireshark)
-- Git
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-# Install dependencies as needed
-```
-
----
-
-## Project Structure
-
-```plaintext
-.
-├── README.md
-├── CONTRIBUTING.md
-├── LICENSE
-├── /docs
-│   ├── incident-response.md
-│   ├── penetration-testing.md
-│   └── vulnerability-management.md
-├── /scripts
-│   ├── pentest_tool.py
-│   └── vuln_scanner.sh
-├── /templates
-│   ├── report-template.md
-│   └── checklist-template.md
-└── /examples
-    └── sample-report.md
-```
-
----
-
-## Usage
-
-1. **Scripts:**  
-   Navigate to the `/scripts` directory and run the desired script.  
-   Example:
-   ```bash
-   python3 scripts/pentest_tool.py
-   ```
-
-2. **Templates:**  
-   Use the templates in `/templates` for your own security reports and checklists.
-
-3. **Documentation:**  
-   Refer to the `/docs` folder for best practices and guides.
-
----
-
-## Contributing
-
-Contributions are welcome!  
-Please review the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on submitting issues and pull requests.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-**Hardik**  
-[![Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hardik-vats)
-
----
-
-> _Tip: Mark this repository as a template on GitHub to help others kickstart their own cybersecurity projects!_
-
----
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
